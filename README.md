@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GingerKingB
-- 👀 I’m interested in Web3 & want to become a digital nomad
+- 👀 I’m interested in Web3, Machine Learning and Data Analysis
 - 🌱 I’m currently learning Python & Solidity
 - 💞️ I’m looking for new online friends 
 - 📫 Reach out to me through discord: GingerKingB69#8594
